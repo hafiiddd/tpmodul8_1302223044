@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Kuliah\\kpl\\tpmodul8_1302223044\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C884A9E1-73A3-4AB2-9D83-D44C990989A5}|tpmodul8_1302223044\\tpmodul8_1302223044.csproj|c:\\kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C884A9E1-73A3-4AB2-9D83-D44C990989A5}|tpmodul8_1302223044\\tpmodul8_1302223044.csproj|solutionrelative:tpmodul8_1302223044\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C884A9E1-73A3-4AB2-9D83-D44C990989A5}|tpmodul8_1302223044\\tpmodul8_1302223044.csproj|c:\\kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C884A9E1-73A3-4AB2-9D83-D44C990989A5}|tpmodul8_1302223044\\tpmodul8_1302223044.csproj|solutionrelative:tpmodul8_1302223044\\uiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C884A9E1-73A3-4AB2-9D83-D44C990989A5}|tpmodul8_1302223044\\tpmodul8_1302223044.csproj|c:\\kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C884A9E1-73A3-4AB2-9D83-D44C990989A5}|tpmodul8_1302223044\\tpmodul8_1302223044.csproj|solutionrelative:tpmodul8_1302223044\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -10,23 +18,50 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul8_1302223044\\Program.cs",
               "ToolTip": "C:\\Kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\Program.cs",
               "RelativeToolTip": "tpmodul8_1302223044\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T07:55:26.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "covidConfig.cs",
+              "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\covidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_1302223044\\covidConfig.cs",
+              "ToolTip": "C:\\Kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\covidConfig.cs",
+              "RelativeToolTip": "tpmodul8_1302223044\\covidConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:40:27.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uiconfig.cs",
+              "DocumentMoniker": "C:\\Kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\uiconfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_1302223044\\uiconfig.cs",
+              "ToolTip": "C:\\Kuliah\\kpl\\tpmodul8_1302223044\\tpmodul8_1302223044\\uiconfig.cs",
+              "RelativeToolTip": "tpmodul8_1302223044\\uiconfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T15:40:22.665Z",
               "EditorCaption": ""
             }
           ]
